@@ -1,4 +1,4 @@
-<h1 align = 'center'> Caveman Calculator 🧮</h1>
+<h1 align = 'center'> Calculator 🧮</h1>
 
 A simple, fully functional calculator built using *HTML* and *CSS* only.
 This project is part of a daily frontend practice challenge focused on building small, functional web apps consistently.
